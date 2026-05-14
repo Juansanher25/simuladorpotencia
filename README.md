@@ -1,2 +1,2 @@
-# simuladorpotencia
-Es una calculadora básica para potencia de bombeo
+# simuladorpuntodeoperacionbomba
+Es una calculadora básica para determinar el punto de operación real de una bomba
